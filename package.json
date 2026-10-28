@@ -1,0 +1,20 @@
+{
+  "name": "sim-halal-fatayat-nu-mersi",
+  "version": "1.0.0",
+  "description": "Portal Monitoring & Cek Mandiri Kesiapan Sertifikasi Halal BPJPH - Pimpinan Ranting Fatayat NU Desa Mersi, Purwokerto Timur",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "halal",
+    "bpjph",
+    "fatayat-nu",
+    "purwokerto",
+    "sains-data-untuk-masyarakat",
+    "oop",
+    "clean-code"
+  ],
+  "author": "Program Sains Data untuk Masyarakat (SDUM) 2026",
+  "license": "MIT"
+}
